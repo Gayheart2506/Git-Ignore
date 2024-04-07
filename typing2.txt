@@ -1,0 +1,22 @@
+Hello welcome to my Youtube channel, my name is Gayheart. 
+I am 23 years of age learning how to program and build something efficient in thsi world 
+
+Attended central University and met most of the amazing people i could ever come across,
+learn't alot in the process .. 
+
+
+thank you for your time , this is a git tutorial on practicing how to use the 
+the GIT IGNORE command efficicently. 
+
+
+git ignore can help you hide up or avoid pushing files that are a bit sensitive and 
+of relevance to be seen by other contributors who are interest in forking your 
+projects on git so for instance you have a passwords file section in your code or 
+an API key file that you would not like others to have access you could use gitignore
+so that when pushing the code to your public repository anyone interested in accessing 
+the code would not access those files when your project is forked.... 
+
+
+touch .gitignore 
+
+        THANK YOU FOR YOUR TIME !!!
