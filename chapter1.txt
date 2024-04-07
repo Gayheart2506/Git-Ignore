@@ -1,0 +1,13 @@
+#Hello welcome to chapter 1: 
+
+title : The life of a Programmer. 
+
+
+1. Practice what you watch.
+2. stackoverflow should be your bestfriend.
+3. Do not be ashame to copy codes but make sure you understand what you copy
+
+In all practice makes man perfect. 
+Build projects in the process as you learn. 
+
+        Build Build Build !!!
