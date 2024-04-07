@@ -1,0 +1,25 @@
+In this text we are gonna learn how to type. 
+
+
+step 1. 
+
+    Keep typing till you are done typing, as i am typing i am typing this file. 
+    yes i am typing gibberish don't mind me 
+
+
+    print("Hello world")
+
+
+    for i in range( 1, 100 ):
+        print(i)
+
+age = 18
+
+if age > 18 : 
+    print(" You are qualified to drive and vote ")
+else: 
+    print("Go back home to mummy, you need a babysitter ")
+
+step2. :
+
+that was just by the way 😂😂😂 
